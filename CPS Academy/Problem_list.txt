@@ -1,1 +1,7 @@
 https://www.cpsacademy.io/blog/100-easy-problems-after-learning-c/-competitive-programming-journey------100-easy-problems-after-learning-c
+
+## 4 Different Platform based Problem is here.
+       * Marisa OJ
+       * CF Group
+       * AtCoder
+       * CSES / CF
