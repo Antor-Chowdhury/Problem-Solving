@@ -1,3 +1,5 @@
+// Platform: Marisa OJ
+
 #include <iostream>
 using namespace std;
 
